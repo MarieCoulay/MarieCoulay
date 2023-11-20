@@ -25,4 +25,4 @@
 
 ### Database  
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/:badgeContent)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
