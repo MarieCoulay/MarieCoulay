@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome on my GitHub profile👋
 
-<!--
-**MarieCoulay/MarieCoulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me  
+### My name is Marie, and I am a web developer student at Ada tech school
+💻 I come from the art field of video game, and as I have always had a strong interest for computer science and development, I am now proud to say that I am on the way to become a developer;   
+🌱 I am currently learning to work with different languages, frameworks, and tools throughout group projects with Agile methodology;  
+🚀 I started learning C++ on my spare time, and I am going to learn about Unreal Engine. I am also very intersted and curious about cybersecurity and its stakes;  
+:magnifying_glass_tilted_left: I am looking for a 12 months internship in Nantes :flag_france: starting on February 12th 2024;  
+📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+
+### FrontEnd  
+![React](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=black)
+![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=Javascript&logoColor=black)
+
+### BackEnd  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?logo=Express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=white) 
+
+### Database  
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white)
