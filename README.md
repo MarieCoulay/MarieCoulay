@@ -5,7 +5,7 @@
 💻 I come from the art field of video game, and as I have always had a strong interest for computer science and development, I am now proud to say that I am on the way to become a developer;   
 🌱 I am currently learning to work with different languages, frameworks, and tools throughout group projects with Agile methodology;  
 🚀 I started learning C++ on my spare time, and I am going to learn about Unreal Engine. I am also very intersted and curious about cybersecurity and its stakes;  
-:magnifying_glass_tilted_left: I am looking for a 12 months internship in Nantes :flag_france: starting on February 12th 2024;  
+📖 I am looking for a 12 months internship in Nantes :flag_france: starting on February 12th 2024;  
 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com;
 
 
