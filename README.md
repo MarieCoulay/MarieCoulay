@@ -6,12 +6,14 @@
 🌱 I am currently learning to work with different languages, frameworks, and tools throughout group projects with Agile methodology;  
 🚀 I started learning C++ on my spare time, and I am going to learn about Unreal Engine. I am also very intersted and curious about cybersecurity and its stakes;  
 📖 I am looking for a 12 months internship in Nantes :flag_france: starting on February 12th 2024;  
-📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com;
+📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com
 
 
 ## Skills  
 
 ### FrontEnd  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=black)
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=Javascript&logoColor=black)
 
