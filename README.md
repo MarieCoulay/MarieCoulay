@@ -5,7 +5,7 @@
 💻 I have a history in the video game art, and as I have always had a strong interest for computer science and development, I am now proud to say that I am on the way to become a web developer!;   
 🌱 I am currently learning to work with several different languages, frameworks, and tools through group projects using Agile methodology;  
 🚀 I started learning C++ on my spare time, and I am going to learn about Unreal Engine. I am also very interested and curious about cybersecurity and its stakes;  
-📖 I am looking for a 12 months internship (alternance) in Nantes (France) starting on February 12th 2024;  
+📖 I am looking for a 12 months apprenticeship (alternance) in Nantes (France) starting on February 12th 2024;  
 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com
 
 
