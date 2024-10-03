@@ -1,11 +1,10 @@
 # Welcome on my GitHub profile👋
 
 ## About me  
-### My name is Marie, and I am a web developer student at Ada tech school
+### My name is Marie, and I am a web developer student at Ada tech school, apprentice at Eviden !
 💻 I have a history in the video game art, and as I have always had a strong interest for computer science and development, I am now proud to say that I am on the way to become a web developer!;   
-🌱 I am currently learning to work with several different languages, frameworks, and tools through group projects using Agile methodology;  
-🚀 I started learning C++ on my spare time, and I am going to learn about Unreal Engine. I am also very interested and curious about cybersecurity and its stakes;  
-📖 I am looking for a 12 months apprenticeship (alternance) in Nantes (France) during 2024. 
+🌱 I am currently working on an eco-conception project using PHP and Drupal;  
+🚀 I am also very interested and curious about cybersecurity and its stakes;  
 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com
 
 
