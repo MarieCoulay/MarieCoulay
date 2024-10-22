@@ -9,10 +9,6 @@
 
 ## Skills  
 
-### Currently learning...
-![Static Badge](https://img.shields.io/badge/Drupal?style=flat&logo=Drupal&logoColor=white&color=%230678BE)
-
-
 ### FrontEnd  
 ![HTML5](https://img.shields.io/badge/html5-white?logo=Html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
