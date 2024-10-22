@@ -5,7 +5,6 @@
 💻 I have a history in the video game art, and as I have always had a strong interest for computer science and development, I am now proud to say that I am on the way to become a web developer!;   
 🌱 I am currently working on an eco-conception project using PHP and Drupal;  
 🚀 I am also very interested and curious about cybersecurity and its stakes;  
-📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/marie-c-97665394/) or by sending an email at marie.coulay@gmail.com
 
 
 ## Skills  
