@@ -15,16 +15,11 @@
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=black)
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=Javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-%2300ADD8?logo=Kotlin&logoColor=white&labelColor=%237F52FF&color=%237F52FF)
 
 ### BackEnd  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000?logo=Express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?logo=Laravel&logoColor=white&color=%23FF2D20)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-white?logo=Go&logoColor=white&labelColor=%2300ADD8&color=%2300ADD8)
-
 
 ### Database  
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white)
