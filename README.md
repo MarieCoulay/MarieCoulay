@@ -19,6 +19,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
 
-### I also had the opportunity to work with ...  
+### Other ...  
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?logo=Docker&logoColor=white&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/mamp-%2302749C?logo=Mamp&logoColor=white&color=%2302749C)
