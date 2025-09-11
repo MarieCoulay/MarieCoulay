@@ -19,10 +19,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
 
-### Database  
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
-
 ### I also had the opportunity to work with ...  
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?logo=Docker&logoColor=white&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/mamp-%2302749C?logo=Mamp&logoColor=white&color=%2302749C)
