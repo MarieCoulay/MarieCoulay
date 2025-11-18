@@ -1,7 +1,7 @@
 # Welcome on my GitHub profile👋
 
 ## About me  
-### My name is Marie, and I am a web developer student at Ada tech school, apprentice at Atos!
+### My name is Marie, and I am a web developer at Atos!
 💻 I first studied game art, and as I have always had a strong interest for computer science and development, I am now proud to say that I am on the way to become a web developer!;   
 🌱 I am currently working on an eco-conception project using PHP and Drupal;  
 🚀 I am also very interested and curious about cybersecurity and its stakes;  
